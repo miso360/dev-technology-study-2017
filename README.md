@@ -15,6 +15,7 @@
 
 - 월 2회. 2주 간격으로 진행
 - 장소는 경성대 중앙도서관 15층 [콘텐츠코리아랩](http://map.naver.com/local/siteview.nhn?code=11592587)(무료)
+- 시간: 오전10시
 - Github을 통해서 자료 공유
 
 
