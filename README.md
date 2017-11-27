@@ -32,17 +32,18 @@
 
 - Javascript (박준)
 
-2주차 : 11/11
+2주차 : 6명 참석 11/11
 
 - Sketch App과 Zeplin을 사용한 UI/UX Design 및 협업의 기술 (배명진)
 - CSS Flex 속성을 이용한 웹페이지 Layout 잡기 (김진솔)
 
 
+3주차: 6명 참석 11/25
 
+- Microservice with SpringCloud (홍길현)
 
+4주차: 12/1
 
+- AWS(박준)
+- (박태환)
 
-### 발표예정
-
-#### 11/11(토) Sketch App과 Zeplin을 사용한 UI/UX Design 및 협업의 기술 by 배명진
-#### 11/11(토) CSS Flex 속성을 이용한 웹페이지 Layout 잡기 by 김진솔
