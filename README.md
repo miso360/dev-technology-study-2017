@@ -30,7 +30,7 @@
 
 1주차 : 6명 참석  10/28
 
-- Javascript (박준)
+- 되짚어 보는 JavaScript (박준)
 
 2주차 : 6명 참석 11/11
 
@@ -42,8 +42,8 @@
 
 - Microservice with SpringCloud (홍길현)
 
-4주차: 12/1
+4주차: 12/9
 
-- AWS 둘러보기(박준)
-- (박태환)
+- AWS 둘러보기 (박준)
+- 문자열 encoding (박태환)
 
